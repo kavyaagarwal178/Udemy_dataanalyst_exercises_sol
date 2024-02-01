@@ -65,6 +65,30 @@ The functions used in activity 4 :-
 syntax - datedif(start_date,end_date,unit)
 
 
+# Activity 5 
+
+**vlookup** - This function looks up a supplied value in first column of a table and returns the correspondence value from another column
+
+syntax - vlookup(lookup_value,table_array,col_index_name,[range_lookup])
+
+**index** - This function returns a reference to a cell that lies in a specified row and column of range of cells.
+
+syntax - INDEX(array,row_num,[col_num])
+
+**match** - This function will lookup a value in an array and returns position of value within an array.
+
+syntax - match(lookup_value,lookup_array,[match_type])
+
+
+
+
+
+
+
+
+
+
+
 
 
 
