@@ -25,6 +25,9 @@ formating and conditional statements
 # Activity 8
 pivot tables 
 
+# Activity 9
+graph charts
+
 
 
 
